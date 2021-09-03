@@ -40,6 +40,7 @@ const routes: Routes = [
   { path: 'signin', component: SigninComponent },
   { path: 'main/notify', component: RequestsComponent },
   { path: 'feedback', component: FeedbackComponent },
+  // { path: 'ngologin', component: LoginComponent },
   {
     path: 'donator-home', component: DonatorHomeComponent,
     children: [
