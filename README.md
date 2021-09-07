@@ -6,6 +6,9 @@ The Application concerns with the issue of the recent time which concerns a lot 
 
 HTML -version 5
 Angular- version 10
+Spring Boot 
+Spring Data JPA
+HTML/CSS/BootStrap
 
 # Features:
 
